@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="shop-proscenium-consume:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="shop-proscenium-consume.war">
+      <element id="artifact" artifact-name="shop-proscenium-consume:war exploded" />
+    </root>
+  </artifact>
+</component>
